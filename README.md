@@ -1,5 +1,4 @@
 # 👋 Bonjour, je suis Cliford CUPIDON
-
 ## 📊 Data Analyst | Python | SQL | Power BI | Excel
 
 Passionné par l’analyse de données, je transforme des datasets en insights clairs et exploitables.  
