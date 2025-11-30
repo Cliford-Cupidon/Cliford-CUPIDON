@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Cliford CUPIDON
 
-<!--
-**Cliford-Cupidon/Cliford-CUPIDON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+Passionné par l’analyse de données, je transforme des datasets en insights clairs et exploitables.  
+J’utilise GitHub pour partager mes projets, visualisations et analyses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Compétences principales
+- **Python** : Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL** : requêtes, jointures, analyses  
+- **Power BI / Excel** : Dashboards, reporting, KPI  
+- **Data Cleaning & EDA**  
+- **Data Visualization** et storytelling
+
+---
+
+### 📂 Projets
+ 
+Des projets complets d’analyse, de visualisation et de data cleaning seront publiés bientôt afin d’illustrer mes compétences.
+
+---
+
+### 📫 Me contacter
+- **LinkedIn :** https://www.linkedin.com/in/clifordcupidon  
+- **Email :** clifordcupidon@gmail.com
+
+---
+
+_Si tu veux voir mes futurs projets, n’hésite pas à suivre mon profil !_
